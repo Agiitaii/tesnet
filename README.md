@@ -1,1 +1,5 @@
-# tesnet
+install
+
+cd
+
+package
